@@ -1,5 +1,11 @@
 总结：
     1.使用纹理可避免为每个顶点配置属性的开销
+    2.使用纹理的主要函数是：
+        ① glGenTextures
+        ② glBindTexture
+        ③ glTexParameter
+        ④ glTexImage2D
+        ⑤ glGenerateMipmap
 
 概述：
     1.纹理坐标
