@@ -17,7 +17,7 @@
         ⑤ GLUT.framework
  
     Add the glfw lib
-        ①libglfw3.a
+        ① libglfw3.a
  
  3. Add glad.c to your project
  
